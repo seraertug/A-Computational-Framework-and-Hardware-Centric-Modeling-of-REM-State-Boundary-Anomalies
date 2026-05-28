@@ -48,3 +48,11 @@ Neuroscience labels time dilation as a subjective distortion caused by altered s
 
 #### My theory: 
 I formulate time dilation as computational processing execution completely liberated from physical hardware constraints. With somatic motor execution fully inhibited, the brain bypasses its external Input/Output (I/O) hardware latency, running synaptic clock speeds at maximum raw capacity. I simulated in code a non-linear Sigmoid-driven growth curve modeling the exponential divergence between flat physical clock-runs and accelerated cognitive durations. The Pandas DataFrame output and line plot clearly quantify the exact "de-coupling boundary" where internal subjective time aggressively separates from objective reality.
+
+### 4. 3D Vector Summation Error (Proprioceptive Displacement)
+#### What is the phenomenon? 
+The terrifying physical sensation of floating away from the bed, drifting laterally, or dropping through the floor while paralyzed.
+#### Current thoughts: 
+Clinical frameworks classify this as a vestibular hallucination triggered by transient REM state intrusions.
+#### My theory: 
+I define this spatial disorientation as a mathematical Sensor Fusion Failure occurring inside the parietal lobe. The brain fails to reconcile two conflicting orientation vectors: a static null vector from tactile bed pressure ($\vec{V}_{somatosensory}$) and a high-acceleration vector simulated by vestibular stress ($\vec{V}_{vestibular}$). I simulated in code a 3-dimensional coordinate grid plotting a physical core anchor against a de-coupled, angular spatial displacement arrow using ax.quiver. The 3D Vector Space Map demonstrates exactly how the un-normalized summation of opposing vectors forces the subjective ego-center away from the physical mattress constraints.
