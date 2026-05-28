@@ -12,7 +12,7 @@ Due to the current technical limitations of publicly available neural network da
 ### The Dual-Lid Logic Gate & System Crash
 #### What is the phenomenon?
 The sudden, terrifying realization of being trapped between sleeping and waking states during a forced emergency exit from a nightmare. This terrifying halfway state is called sleep paralysis.
-#### Current thoughts: 
+#### Traditional Neuroscientific Paradigm: 
 Traditional science views this transition simply as a generic, slow neural state change with overlapping neurochemical signals.
 #### My theory: 
 I model the biological visual gating system through an XOR logic template, using an Internal Layer ($L_{int}$) and an External Layer ($L_{ext}$) like a double-layered eyelid where 0 means close and 1 means open. 
@@ -26,7 +26,7 @@ Forcing both shutters active simultaneously ($1 \oplus 1$) creates an unresolvab
 ### 1. Neural Calibration Resonance (The Vibration)
 #### What is the phenomenon? 
 A severe, realistic, rhythmic mechanical vibration localized intensely at the posterior neck region in the dream.
-#### Current thoughts:
+#### Traditional Neuroscientific Paradigm:
 Clinical literature generalises this somatic vibration as simple motor cortex muscle tremors or sleep paralysis hallucinations.
 #### My theory: 
 I analyze this physical resonance as a system-level Baud Rate Mismatch between two competing data packet streams. The motor inhibition signal of REM sleep overlaps with the sudden wakefulness interrupt loop inside the medulla oblongata, causing an acute feedback loop. I simulated in code an overlay of a continuous high-frequency carrier wave ($45 \text{ Hz}$ Gamma burst parazit) triggered conditionally at the exact moment of the logic crash. The waveform visualization captures a stable sinusoidal dream signal instantly breaking down into a chaotic, high-amplitude interference pattern.
@@ -34,7 +34,7 @@ I analyze this physical resonance as a system-level Baud Rate Mismatch between t
 ### 2. Predictive Environment Caching (The Dim Room)
 #### What is the phenomenon? 
 The experience of a "False Awakening" where the subject believes they woke up, but the room appears unnaturally fluid, blurry, and dimly lit.
-#### Current thoughts: 
+#### Traditional Neuroscientific Paradigm: 
 Psychology attributes this to vivid dream construction and spatial expectation loops filling the visual field.
 #### My theory: 
 I model this environment as a severe GPU/VRAM bottleneck inside the brain's internal graphics rendering unit. Lacking live external photon streams, the visual cortex forces a low Level of Detail (LOD) reconstruction pulled directly from volatile working memory cache (RAM). I simulated in code a $10\times10$ spatial voxel matrix tracking exponential rendering error degradation moving outward from the subject's focal center. The generated dark blue/purple Seaborn Heatmap visually maps the stable fokal zone alongside a severe localized pixel anomaly representing the ambient light rendering fault.
@@ -43,7 +43,7 @@ I model this environment as a severe GPU/VRAM bottleneck inside the brain's inte
 #### What is the phenomenon? 
 A massive distortion where a physical sleep duration of only 32 minutes scales subjectively into hours of dense narrative processing.
 
-#### Current thoughts: 
+#### Traditional Neuroscientific Paradigm: 
 Neuroscience labels time dilation as a subjective distortion caused by altered synaptic firing speeds during REM epochs.
 
 #### My theory: 
@@ -52,7 +52,7 @@ I formulate time dilation as computational processing execution completely liber
 ### 4. 3D Vector Summation Error (Proprioceptive Displacement)
 #### What is the phenomenon? 
 The terrifying physical sensation of floating away from the bed, drifting laterally, or dropping through the floor while paralyzed.
-#### Current thoughts: 
+#### Traditional Neuroscientific Paradigm: 
 Clinical frameworks classify this as a vestibular hallucination triggered by transient REM state intrusions.
 #### My theory: 
 I define this spatial disorientation as a mathematical Sensor Fusion Failure occurring inside the parietal lobe. The brain fails to reconcile two conflicting orientation vectors: a static null vector from tactile bed pressure ($\vec{V}_{somatosensory}$) and a high-acceleration vector simulated by vestibular stress ($\vec{V}_{vestibular}$). I simulated in code a 3-dimensional coordinate grid plotting a physical core anchor against a de-coupled, angular spatial displacement arrow using ax.quiver. The 3D Vector Space Map demonstrates exactly how the un-normalized summation of opposing vectors forces the subjective ego-center away from the physical mattress constraints.
