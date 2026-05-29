@@ -1,5 +1,5 @@
 # A Computational Framework and Hardware-Centric Modeling of REM-State Boundary Anomalies:
-## The Logic Behind Phenomena of Consciousness During Sleep (Hardware Analyses of Theories)
+## The Logic Behind Phenomena of Consciousness During Sleep (Hardware Analyses of My Model Propositions)
 
 ### Project Overview & Genesis
 In modern neuroscience and sleep medicine, boundary-consciousness phenomena such as sleep paralysis, lucid dreams, and false awakenings are intensively researched. While existing literature heavily focuses on neurochemical dynamics and qualitative clinical observations, there is a gap in structured, hardware-centric computational models that simulate these state transitions. This project proposes a conceptual framework that translates qualitative neurobiological phenomena into discrete algorithmic models and phenomenological simulations, mapping neural state anomalies to computer architecture principles.
