@@ -17,7 +17,7 @@ I model the biological visual gating system through an XOR logic template, using
   * $L_{int}$ = 0, $L_{ext}$ = 1 ---> $L_{int} \oplus L_{ext}$ = You are awake
   * $L_{int}$ = 0, $L_{ext}$ = 0 ---> $L_{int} \oplus L_{ext}$ = You are awake but eyes closed
   * $L_{int}$ = 1, $L_{ext}$ = 0 ---> $L_{int} \oplus L_{ext}$ = You are dreaming
-  * $L_{int} = 1, L_{ext} = 1$ ---> $L_{int} \oplus L_{ext}$ = ?
+  * $L_{int} = 1, L_{ext} = 1$ ---> $L_{int} \oplus L_{ext}$ = 0 -----> In discrete logic, $1 \oplus 1$ outputs a hard 0. In my computational framework, this does not represent stable sleep ($0 \oplus 0 = 0$), but rather a structural Race Condition where two contradictory sensory execution loops force the system stability index to instantly collapse to absolute zero.
 
 Forcing both shutters active simultaneously ($1 \oplus 1$) creates an unresolvable digital Race Condition that crashes the operating system's stability. I simulated in code a high-resolution time-series calculation utilizing NumPy's bitwise_xor to track the moment where system stability instantly drops to zero. The resulting digital telemetry graph clearly visualizes the binary step-transitions of the visual gates and the subsequent absolute collapse of the stability index.
 
